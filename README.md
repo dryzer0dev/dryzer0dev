@@ -1,4 +1,8 @@
-<img src="https://github.com/user-attachments/assets/965b8187-0cf0-4e58-b476-b7ecef20489d/fe423f30f7b65b287562607820d3ad43" width="555" />
+---
+
+
+![fe423f30f7b65b287562607820d3ad43](https://github.com/user-attachments/assets/e6da9783-79f6-479b-94c9-41af63474830)
+
 ---
 
 ## 🔥 Featured Projects
