@@ -48,15 +48,15 @@
 
 <!-- Stats -->
 <!-- 🔥 XIWA-TOOL STATS CARD - RED DARK MODE -->
-
-<div style="border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #0f0f0f, #1a0000); box-shadow: 0 0 40px rgba(255, 0, 0, 0.9); margin: 30px 0; transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out; animation: glowBackground 1.5s infinite alternate;">
-  <h2 align="center" style="color: #ff1a1a; font-family: 'Fira Code', monospace; text-shadow: 0 0 10px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff0000; font-size: 30px; margin-bottom: 15px; animation: titlePulse 1s ease-in-out infinite;">
+<div style="border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #0f0f0f, #1a0000); box-shadow: 0 0 40px rgba(255, 0, 0, 0.9); margin: 30px 0; transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out; animation: waveGlow 3s infinite alternate, glowBackground 2s infinite alternate;">
+  <h2 align="center" style="color: #ff1a1a; font-family: 'Fira Code', monospace; text-shadow: 0 0 15px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff0000; font-size: 30px; margin-bottom: 15px; animation: titlePulse 1.5s ease-in-out infinite, waveEffect 4s infinite ease-in-out;">
     📊 XIWA-TOOL Stats
   </h2>
-  <p align="center" style="margin-top: 20px; animation: imageGlow 1.5s ease-in-out infinite;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dryzer0dev&repo=XIWA-TOOL&theme=radical&border_color=ff0000&title_color=ff1a1a&text_color=ffffff&icon_color=ff0000" width="400px" style="border-radius: 12px; animation: scaleUp 1.5s ease-in-out infinite, glowRed 2s infinite alternate, imageShake 1s ease-in-out infinite; box-shadow: 0 0 25px rgba(255, 0, 0, 0.9);">
+  <p align="center" style="margin-top: 20px; animation: waveGlowImage 2.5s infinite alternate, imageBounce 2s infinite;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dryzer0dev&repo=XIWA-TOOL&theme=radical&border_color=ff0000&title_color=ff1a1a&text_color=ffffff&icon_color=ff0000" width="400px" style="border-radius: 12px; animation: scaleUp 1.5s infinite alternate, glowRed 1.5s infinite alternate, imageShake 1.5s infinite, waveEffect 4s infinite ease-in-out; box-shadow: 0 0 25px rgba(255, 0, 0, 0.9);">
   </p>
 </div>
+
 
 
 
