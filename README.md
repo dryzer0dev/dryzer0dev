@@ -58,6 +58,7 @@
   </p>
 </div>
 
+
 <!-- Animations directly in style -->
 <script>
   document.addEventListener("DOMContentLoaded", function() {
