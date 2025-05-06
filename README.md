@@ -11,18 +11,41 @@ My project :
 
 ---
 
-## À Propos de Moi
+## About Me
 
-(Optionnel : Ajoutez ici une courte description de vous-même, de vos intérêts, etc.)
+Python, HTML / CSS / JS, react, c++, c and c# developper.
+I learn ASM and Ruby
+
+I'm the official creator of all XIWA's project and python simplifier.
 
 ---
 
 ## Contact
 
-(Optionnel : Ajoutez des liens pour vous contacter, comme LinkedIn, Twitter, etc.)
+Discord: _.shiraka
+Email: shiraka0dev@gmail.com
+Email: dryzer0dev@gmail.com
 
 ---
 
 ## Statistiques GitHub
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dryzer0dev&show_icons=true&theme=radical" alt="Dryz3R's GitHub Stats" />
 
-(Optionnel : Vous pouvez ajouter des badges de statistiques GitHub ici, comme ceux de [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) ou [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) pour montrer votre activité.)
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dryzer0dev&theme=radical" alt="Dryz3R's GitHub Streak" />
+</p>
+
+### Statistiques des Dépôts
+
+<p align="center">
+  <!-- siplifier.py Stats -->
+  [![GitHub stars](https://img.shields.io/github/stars/dryzer0dev/siplifier.py?style=social)](https://github.com/dryzer0dev/siplifier.py/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/dryzer0dev/siplifier.py?style=social)](https://github.com/dryzer0dev/siplifier.py/network/members)
+  <br> <!-- Ajout d'un saut de ligne pour séparer les badges -->
+
+  <!-- WIXA_SKID_PANEL Stats -->
+  [![GitHub stars](https://img.shields.io/github/stars/dryzer0dev/WIXA_SKID_PANEL?style=social)](https://github.com/dryzer0dev/WIXA_SKID_PANEL/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/dryzer0dev/WIXA_SKID_PANEL?style=social)](https://github.com/dryzer0dev/WIXA_SKID_PANEL/network/members)
+</p>
