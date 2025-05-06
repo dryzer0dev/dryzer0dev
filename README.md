@@ -1,5 +1,5 @@
-<p width: 100%;>
-  <img src="https://github.com/user-attachments/assets/3dd6d1f5-2673-4d56-9c50-b57ddde29a15" alt="Dryz3R Banner">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3dd6d1f5-2673-4d56-9c50-b57ddde29a15" alt="Dryz3R Banner" style="width:100%;">
 </p>
 
 # Dryz3R
@@ -10,8 +10,10 @@ Bienvenue sur le profil GitHub de Dryz3R ! Ici, vous trouverez mes projets et co
 
 Découvrez mes derniers projets :
 
+<p align="center">
   [![XIWA-TOOL](https://img.shields.io/badge/XIWA--TOOL-Repository-%23003366)](https://github.com/dryzer0dev/XIWA-TOOL/)
   [![xiwa-air-crackers](https://img.shields.io/badge/xiwa--air--crackers-Repository-%23660000)](https://github.com/dryzer0dev/xiwa-air-crackers)
+</p>
 
 ---
 
