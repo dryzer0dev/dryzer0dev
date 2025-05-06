@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3dd6d1f5-2673-4d56-9c50-b57ddde29a15" alt="Dryz3R Banner" style="width:100%;">
+  <img src="https://github.com/user-attachments/assets/3dd6d1f5-2673-4d56-9c50-b57ddde29a15" alt="Dryz3R Banner" style="width:400%; ">
 </p>
 
 # Dryz3R
