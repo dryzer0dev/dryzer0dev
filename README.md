@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="assets/typing-banner.png" width="555" />
+  [assets/typing-banner.png](https://github.com/user-attachments/assets/e6da9783-79f6-479b-94c9-41af63474830/fe423f30f7b65b287562607820d3ad43)
 </p>
 
 
