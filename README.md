@@ -1,7 +1,7 @@
 <!-- ✨ Typing Banner -->
-
-![fe423f30f7b65b287562607820d3ad43](https://github.com/user-attachments/assets/965b8187-0cf0-4e58-b476-b7ecef20489d)
-
+<div style="max-width: 100%;display: inline-block;width: 5555px;">
+  ![fe423f30f7b65b287562607820d3ad43](https://github.com/user-attachments/assets/965b8187-0cf0-4e58-b476-b7ecef20489d)
+</div>
 ---
 
 <!-- 💎 FEATURED PROJECTS -->
