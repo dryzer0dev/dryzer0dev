@@ -115,37 +115,40 @@ Here are **20+ cards** that link to your major categories/tools. All icons glow 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 50px;">
   
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 50px;">
+  
   <!-- Card 1 -->
-  <div class="card" style="border-radius: 15px; width: 300px; height: 400px; background: linear-gradient(135deg, #1f1f1f, #ff1a1a); box-shadow: 0 4px 30px rgba(255, 0, 0, 0.6); overflow: hidden; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
-    <div style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=XIWA+TOOL'); background-size: cover; height: 200px; border-top-left-radius: 15px; border-top-right-radius: 15px;"></div>
-    <div style="padding: 20px; text-align: center; color: #fff;">
-      <h3 style="font-family: 'Fira Code', monospace; font-size: 22px;">XIWA TOOL</h3>
-      <p style="font-size: 16px;">Multi-functional anonymity toolkit</p>
-      <a href="https://github.com/dryzer0dev/XIWA-TOOL" style="display: inline-block; background-color: #ff1a1a; color: white; padding: 10px 20px; text-decoration: none; border-radius: 30px; font-weight: bold; margin-top: 15px;">Explore</a>
+  <div class="card">
+    <div class="card-image" style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=XIWA+TOOL');"></div>
+    <div class="card-content">
+      <h3>XIWA TOOL</h3>
+      <p>Multi-functional anonymity toolkit</p>
+      <a href="https://github.com/dryzer0dev/XIWA-TOOL" class="card-button">Explore</a>
     </div>
   </div>
 
   <!-- Card 2 -->
-  <div class="card" style="border-radius: 15px; width: 300px; height: 400px; background: linear-gradient(135deg, #1f1f1f, #ff1a1a); box-shadow: 0 4px 30px rgba(255, 0, 0, 0.6); overflow: hidden; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
-    <div style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=XIWA+AIR+CRACKERS'); background-size: cover; height: 200px; border-top-left-radius: 15px; border-top-right-radius: 15px;"></div>
-    <div style="padding: 20px; text-align: center; color: #fff;">
-      <h3 style="font-family: 'Fira Code', monospace; font-size: 22px;">XIWA AIR CRACKERS</h3>
-      <p style="font-size: 16px;">Air network cracking tool with stealth mode</p>
-      <a href="https://github.com/dryzer0dev/xiwa-air-crackers" style="display: inline-block; background-color: #ff1a1a; color: white; padding: 10px 20px; text-decoration: none; border-radius: 30px; font-weight: bold; margin-top: 15px;">Explore</a>
+  <div class="card">
+    <div class="card-image" style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=XIWA+AIR+CRACKERS');"></div>
+    <div class="card-content">
+      <h3>XIWA AIR CRACKERS</h3>
+      <p>Air network cracking tool with stealth mode</p>
+      <a href="https://github.com/dryzer0dev/xiwa-air-crackers" class="card-button">Explore</a>
     </div>
   </div>
 
   <!-- Card 3 -->
-  <div class="card" style="border-radius: 15px; width: 300px; height: 400px; background: linear-gradient(135deg, #1f1f1f, #ff1a1a); box-shadow: 0 4px 30px rgba(255, 0, 0, 0.6); overflow: hidden; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
-    <div style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=PlexOS'); background-size: cover; height: 200px; border-top-left-radius: 15px; border-top-right-radius: 15px;"></div>
-    <div style="padding: 20px; text-align: center; color: #fff;">
-      <h3 style="font-family: 'Fira Code', monospace; font-size: 22px;">PlexOS</h3>
-      <p style="font-size: 16px;">Mobile OS in development</p>
-      <a href="https://github.com/dryzer0dev/plexos" style="display: inline-block; background-color: #ff1a1a; color: white; padding: 10px 20px; text-decoration: none; border-radius: 30px; font-weight: bold; margin-top: 15px;">Preview</a>
+  <div class="card">
+    <div class="card-image" style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=PlexOS');"></div>
+    <div class="card-content">
+      <h3>PlexOS</h3>
+      <p>Mobile OS in development</p>
+      <a href="https://github.com/dryzer0dev/plexos" class="card-button">Preview</a>
     </div>
   </div>
 
 </div>
+
 
 ---
 
