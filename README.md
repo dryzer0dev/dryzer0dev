@@ -81,7 +81,17 @@ Here are **20+ cards** that link to your major categories/tools. All icons glow 
 
 ---
 
-<!-- ✉️ CONTACT -->
+# LIVE SHOW
+
+## 📊 Mes Statistiques GitHub
+
+![Dryzer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dryzer0dev&show_icons=true&theme=radical&locale=fr)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dryzer0dev&layout=compact&theme=radical&locale=fr)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dryzer0dev&theme=radical&locale=fr)
+
+
 ## 📬 Contact Me
 
 <p align="center">
