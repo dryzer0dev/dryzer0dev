@@ -47,13 +47,26 @@
 </div>
 
 <!-- Stats -->
-<div class="card-glow">
-  <h2 align="center">GitHub Stats</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dryzer0dev&show_icons=true&theme=radical&include_all_commits=true" width="45%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dryzer0dev&theme=radical&hide_border=true" width="45%">
+<!-- 🔥 XIWA-TOOL STATS CARD - RED DARK MODE -->
+
+<div style="border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #0f0f0f, #1a0000); box-shadow: 0 0 25px rgba(255, 0, 0, 0.5); margin: 30px 0;">
+  <h2 align="center" style="color: #ff1a1a; font-family: 'Fira Code', monospace; text-shadow: 0 0 5px #ff0000;">📊 XIWA-TOOL Stats</h2>
+  <p align="center" style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dryzer0dev&repo=XIWA-TOOL&theme=radical&border_color=ff0000&title_color=ff1a1a&text_color=ffffff&icon_color=ff0000" width="400px" style="border-radius: 12px; animation: glowRed 2s infinite alternate;">
   </p>
 </div>
+
+<style>
+@keyframes glowRed {
+  from {
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.3);
+  }
+  to {
+    box-shadow: 0 0 30px rgba(255, 0, 0, 0.8);
+  }
+}
+</style>
+
 
 <!-- Contact -->
 <div class="card-glow">
