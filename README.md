@@ -49,23 +49,35 @@
 <!-- Stats -->
 <!-- 🔥 XIWA-TOOL STATS CARD - RED DARK MODE -->
 
-<div style="border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #0f0f0f, #1a0000); box-shadow: 0 0 25px rgba(255, 0, 0, 0.5); margin: 30px 0;">
-  <h2 align="center" style="color: #ff1a1a; font-family: 'Fira Code', monospace; text-shadow: 0 0 5px #ff0000;">📊 XIWA-TOOL Stats</h2>
+<div style="border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #0f0f0f, #1a0000); box-shadow: 0 0 30px rgba(255, 0, 0, 0.7); margin: 30px 0; transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out;">
+  <h2 align="center" style="color: #ff1a1a; font-family: 'Fira Code', monospace; text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000; font-size: 28px; margin-bottom: 15px; transition: transform 0.5s;">
+    📊 XIWA-TOOL Stats
+  </h2>
   <p align="center" style="margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dryzer0dev&repo=XIWA-TOOL&theme=radical&border_color=ff0000&title_color=ff1a1a&text_color=ffffff&icon_color=ff0000" width="400px" style="border-radius: 12px; animation: glowRed 2s infinite alternate;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dryzer0dev&repo=XIWA-TOOL&theme=radical&border_color=ff0000&title_color=ff1a1a&text_color=ffffff&icon_color=ff0000" width="400px" style="border-radius: 12px; animation: glowRed 2s infinite alternate, scaleUp 1s ease-in-out infinite; box-shadow: 0 0 20px rgba(255, 0, 0, 0.8);">
   </p>
 </div>
 
-<style>
-@keyframes glowRed {
-  from {
-    box-shadow: 0 0 10px rgba(255, 0, 0, 0.3);
-  }
-  to {
-    box-shadow: 0 0 30px rgba(255, 0, 0, 0.8);
-  }
-}
-</style>
+<!-- Animations directly in style -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const imgElement = document.querySelector('img');
+
+    // Apply animations directly in JS for glow effect
+    imgElement.style.animation = 'glowRed 2s infinite alternate, scaleUp 1s ease-in-out infinite';
+
+    imgElement.addEventListener("mouseover", () => {
+      imgElement.style.transform = 'scale(1.05)';
+      imgElement.style.boxShadow = '0 0 50px rgba(255, 0, 0, 0.8)';
+    });
+
+    imgElement.addEventListener("mouseout", () => {
+      imgElement.style.transform = 'scale(1)';
+      imgElement.style.boxShadow = '0 0 20px rgba(255, 0, 0, 0.8)';
+    });
+  });
+</script>
+
 
 
 <!-- Contact -->
