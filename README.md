@@ -113,42 +113,43 @@ Here are **20+ cards** that link to your major categories/tools. All icons glow 
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 50px;">
-  
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 50px;">
-  
+<div class="custom-cards">
   <!-- Card 1 -->
   <div class="card">
-    <div class="card-image" style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=XIWA+TOOL');"></div>
-    <div class="card-content">
-      <h3>XIWA TOOL</h3>
-      <p>Multi-functional anonymity toolkit</p>
-      <a href="https://github.com/dryzer0dev/XIWA-TOOL" class="card-button">Explore</a>
+    <div class="image-container">
+      <img src="https://via.placeholder.com/300x200/ff1a1a/ffffff?text=Adventure+Time" alt="Adventure Time">
+    </div>
+    <div class="card-body">
+      <h3>Adventure Time</h3>
+      <p>Explore a whimsical world full of strange characters and exciting quests.</p>
+      <button onclick="window.location.href='https://www.example.com'">Learn More</button>
     </div>
   </div>
 
   <!-- Card 2 -->
   <div class="card">
-    <div class="card-image" style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=XIWA+AIR+CRACKERS');"></div>
-    <div class="card-content">
-      <h3>XIWA AIR CRACKERS</h3>
-      <p>Air network cracking tool with stealth mode</p>
-      <a href="https://github.com/dryzer0dev/xiwa-air-crackers" class="card-button">Explore</a>
+    <div class="image-container">
+      <img src="https://via.placeholder.com/300x200/3f8efc/ffffff?text=Star+Wars" alt="Star Wars">
+    </div>
+    <div class="card-body">
+      <h3>Star Wars Universe</h3>
+      <p>Join the fight between the light and dark sides of the Force.</p>
+      <button onclick="window.location.href='https://www.example.com'">Discover</button>
     </div>
   </div>
 
   <!-- Card 3 -->
   <div class="card">
-    <div class="card-image" style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=PlexOS');"></div>
-    <div class="card-content">
-      <h3>PlexOS</h3>
-      <p>Mobile OS in development</p>
-      <a href="https://github.com/dryzer0dev/plexos" class="card-button">Preview</a>
+    <div class="image-container">
+      <img src="https://via.placeholder.com/300x200/000000/ffffff?text=Dark+Knight" alt="Dark Knight">
+    </div>
+    <div class="card-body">
+      <h3>The Dark Knight</h3>
+      <p>Delve into Gotham City with the caped crusader and his allies.</p>
+      <button onclick="window.location.href='https://www.example.com'">Explore</button>
     </div>
   </div>
-
 </div>
-
 
 ---
 
