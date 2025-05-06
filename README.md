@@ -1,8 +1,8 @@
 ---
 
-
-<img src="https://github.com/user-attachments/assets/e6da9783-79f6-479b-94c9-41af63474830/fe423f30f7b65b287562607820d3ad43" width="205px" />
-
+<a href="https://github.com/user-attachments/assets/e6da9783-79f6-479b-94c9-41af63474830/fe423f30f7b65b287562607820d3ad43">
+  <img src="https://github.com/user-attachments/assets/e6da9783-79f6-479b-94c9-41af63474830/fe423f30f7b65b287562607820d3ad43" width="100%" />
+</a>
 
 ---
 
