@@ -1,7 +1,4 @@
-<!-- ✨ Typing Banner -->
----
-<img src="https://github.com/user-attachments/assets/965b8187-0cf0-4e58-b476-b7ecef20489d/fe423f30f7b65b287562607820d3ad43" style="max-width: 100%; display: inline-block; width: 555px;" />
-<!-- 💎 FEATURED PROJECTS -->
+<img src="https://github.com/user-attachments/assets/965b8187-0cf0-4e58-b476-b7ecef20489d/fe423f30f7b65b287562607820d3ad43" width="555" />
 ---
 
 ## 🔥 Featured Projects
