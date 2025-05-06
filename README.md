@@ -1,7 +1,5 @@
 <!-- ✨ Typing Banner -->
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00FFE0&width=700&lines=🔧+Welcome+to+Dryz3R's+World+of+Tools;🚀+XIWA+Project+Creator;👨‍💻+Coding+Beast+of+2025;🎯+Precision.+Power.+Perfection." />
-</p>
 
 ---
 
@@ -17,9 +15,7 @@
         Explore
       </a>
     </div>
-    <div style="text-align: center; margin-top: 10px;">
       ![GitHub Repo stars](https://img.shields.io/github/stars/dryzer0dev/XIWA-TOOL?style=flat-square&color=00ffe0)
-    </div>
   </div>
 
   <div style="width: 250px; padding: 20px; border-radius: 12px; background: linear-gradient(135deg, #ff4b5c, #ff1a1a); box-shadow: 0 0 25px rgba(255, 0, 0, 0.6); transition: transform 0.3s ease-in-out; animation: glowEffect 2s infinite alternate;">
@@ -30,9 +26,7 @@
         Explore
       </a>
     </div>
-    <div style="text-align: center; margin-top: 10px;">
       ![GitHub Repo stars](https://img.shields.io/github/stars/dryzer0dev/xiwa-air-crackers?style=flat-square&color=00ffe0)
-    </div>
   </div>
 </div>
 
