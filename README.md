@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=800&color=00FFD5&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B+I'm+Dryz3R;Developer+of+XIWA%2C+XIWAAI%2C+PlexOS;Best+Edits+in+Fortnite;Building+the+future+now+..." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=800&color=00FFD5&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B+I'm+Dryz3R;Developer+of+XIWA%2C+XIWA-AI%2C+Simplifier.py%2c+XiwAOS;Building+the+future+now+..." alt="Typing SVG">
 </h1>
 
 
