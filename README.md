@@ -113,27 +113,6 @@ Here are **20+ cards** that link to your major categories/tools. All icons glow 
 
 ---
 
-
-<div class="card-glow">
-  <h2 align="center">XIWA-TOOL</h2>
-  <p align="center">Un ensemble d'outils de sécurité et d'anonymisation multifonctionnels, conçu pour les utilisateurs soucieux de leur confidentialité et de leur sécurité en ligne.</p>
-
-  <p align="center">
-    <strong>Caractéristiques principales :</strong><br>
-    - Outils d'anonymisation avancés.<br>
-    - Cryptage et sécurité des communications.<br>
-    - Gestion de l'IP et des connexions réseau.<br>
-    - Mode furtif pour éviter la détection.<br>
-    - Compatible avec plusieurs systèmes d'exploitation et appareils.
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/dryzer0dev/XIWA-TOOL" target="_blank" style="background-color: #ff1a1a; color: white; padding: 10px 20px; text-decoration: none; border-radius: 30px; font-weight: bold;">Explorer sur GitHub</a>
-  </p>
----
-
 <!-- 🌊 FOOTER WAVE -->
 
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
-</p>
