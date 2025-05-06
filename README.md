@@ -113,44 +113,23 @@ Here are **20+ cards** that link to your major categories/tools. All icons glow 
 
 ---
 
-<div class="custom-cards">
-  <!-- Card 1 -->
-  <div class="card">
-    <div class="image-container">
-      <img src="https://via.placeholder.com/300x200/ff1a1a/ffffff?text=Adventure+Time" alt="Adventure Time">
-    </div>
-    <div class="card-body">
-      <h3>Adventure Time</h3>
-      <p>Explore a whimsical world full of strange characters and exciting quests.</p>
-      <button onclick="window.location.href='https://www.example.com'">Learn More</button>
-    </div>
-  </div>
 
-  <!-- Card 2 -->
-  <div class="card">
-    <div class="image-container">
-      <img src="https://via.placeholder.com/300x200/3f8efc/ffffff?text=Star+Wars" alt="Star Wars">
-    </div>
-    <div class="card-body">
-      <h3>Star Wars Universe</h3>
-      <p>Join the fight between the light and dark sides of the Force.</p>
-      <button onclick="window.location.href='https://www.example.com'">Discover</button>
-    </div>
-  </div>
+<div class="card-glow">
+  <h2 align="center">XIWA-TOOL</h2>
+  <p align="center">Un ensemble d'outils de sécurité et d'anonymisation multifonctionnels, conçu pour les utilisateurs soucieux de leur confidentialité et de leur sécurité en ligne.</p>
 
-  <!-- Card 3 -->
-  <div class="card">
-    <div class="image-container">
-      <img src="https://via.placeholder.com/300x200/000000/ffffff?text=Dark+Knight" alt="Dark Knight">
-    </div>
-    <div class="card-body">
-      <h3>The Dark Knight</h3>
-      <p>Delve into Gotham City with the caped crusader and his allies.</p>
-      <button onclick="window.location.href='https://www.example.com'">Explore</button>
-    </div>
-  </div>
-</div>
+  <p align="center">
+    <strong>Caractéristiques principales :</strong><br>
+    - Outils d'anonymisation avancés.<br>
+    - Cryptage et sécurité des communications.<br>
+    - Gestion de l'IP et des connexions réseau.<br>
+    - Mode furtif pour éviter la détection.<br>
+    - Compatible avec plusieurs systèmes d'exploitation et appareils.
+  </p>
 
+  <p align="center">
+    <a href="https://github.com/dryzer0dev/XIWA-TOOL" target="_blank" style="background-color: #ff1a1a; color: white; padding: 10px 20px; text-decoration: none; border-radius: 30px; font-weight: bold;">Explorer sur GitHub</a>
+  </p>
 ---
 
 <!-- 🌊 FOOTER WAVE -->
