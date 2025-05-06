@@ -14,8 +14,6 @@
 | -------------------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | [XIWA TOOL](https://github.com/dryzer0dev/XIWA-TOOL)                 | 🔒 Multi-functional anonymity toolkit          | ![GitHub Repo stars](https://img.shields.io/github/stars/dryzer0dev/XIWA-TOOL?style=flat-square\&color=00ffe0)         |
 | [XIWA AIR CRACKERS](https://github.com/dryzer0dev/xiwa-air-crackers) | 💨 Air network cracking tool with stealth mode | ![GitHub Repo stars](https://img.shields.io/github/stars/dryzer0dev/xiwa-air-crackers?style=flat-square\&color=00ffe0) |
-| [XIWA VPN](https://github.com/dryzer0dev/xiwa-vpn)                   | 🛡️ Advanced VPN with stealth features          | ![GitHub Repo stars](https://img.shields.io/github/stars/dryzer0dev/xiwa-vpn?style=flat-square\&color=00ffe0)         |
-| [PlexOS](https://github.com/dryzer0dev/plexos)                       | 📱 Next-gen mobile OS under development        | ![GitHub Repo stars](https://img.shields.io/github/stars/dryzer0dev/plexos?style=flat-square\&color=00ffe0)            |
 
 ---
 
@@ -91,9 +89,7 @@ Here are **20+ cards** that link to your major categories/tools. All icons glow 
 | 🌐 XIWA Tool                   | [Launch](https://github.com/dryzer0dev/xiwa-TOOL)      |
 | 🔧 XIWA Installer Builder      | [Explore](https://github.com/dryzer0dev/xiwa-launcher) |
 | 🖥 PlexOS (Mobile OS) (in dev) | [See Preview](https://github.com/dryzer0dev/plexos)    |
-| 🔐 XIWA VPN                    | [Launch](https://github.com/dryzer0dev/xiwa-vpn)       |
-| 🚀 XiwA AI                     | [Explore](https://github.com/dryzer0dev/xiwa-ai)       |
-| 💻 XiwA OS                     | [Preview](https://github.com/dryzer0dev/xiwa-os)       |
+| 💻 XiwA OS 5IN DEV°            | [Preview](https://github.com/dryzer0dev/xiwa-os)       |
 
 ---
 
