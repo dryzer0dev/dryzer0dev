@@ -17,13 +17,20 @@
 
 <!-- 💡 ABOUT ME -->
 
-## 🧠 About Me
+<!-- 🌀 STATS CARDS ENHANCED -->
 
-* Creator of high-performance tools, software, and VPN systems
-* Expert in obfuscation, cracking, and stealth coding
-* Mastering: Python, JS, HTML/CSS, C#, C++
-* Learning: **Assembly** and **Ruby**
-* Working on: **Xiwa VPN**, **Xiwa OS**, **Xiwa Launcher**, **Xiwa AI**
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dryzer0dev&theme=radical" width="95%" style="border-radius: 20px; box-shadow: 0 0 20px #00ffe0; margin-bottom: 20px;"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dryzer0dev&theme=radical" width="45%" style="border-radius: 20px; box-shadow: 0 0 20px #00ffe0; margin: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dryzer0dev&theme=radical" width="45%" style="border-radius: 20px; box-shadow: 0 0 20px #00ffe0; margin: 10px;"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dryzer0dev&theme=radical" width="45%" style="border-radius: 20px; box-shadow: 0 0 20px #00ffe0; margin: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dryzer0dev&theme=radical&utcOffset=2" width="45%" style="border-radius: 20px; box-shadow: 0 0 20px #00ffe0; margin: 10px;"/>
+  
+</div>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,cs,bash" />
