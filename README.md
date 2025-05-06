@@ -1,8 +1,6 @@
 <!-- ✨ Typing Banner -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00FFE0&width=700&lines=🔧+Welcome+to+Dryz3R's+World+of+Tools;🚀+XIWA+Project+Creator;👨‍💻+Coding+Beast+of+2025;🎯+Precision.+Power.+Perfection." />
-</p>
+![fe423f30f7b65b287562607820d3ad43](https://github.com/user-attachments/assets/965b8187-0cf0-4e58-b476-b7ecef20489d)
 
 ---
 
