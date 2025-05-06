@@ -8,10 +8,33 @@
 <!-- 💎 FEATURED PROJECTS -->
 ## 🔥 Featured Projects
 
-| Tool | Description | Stars |
-|------|-------------|-------|
-| [XIWA TOOL](https://github.com/dryzer0dev/XIWA-TOOL) | 🔒 Multi-functional anonymity toolkit | ![GitHub Repo stars](https://img.shields.io/github/stars/dryzer0dev/XIWA-TOOL?style=flat-square&color=00ffe0) |
-| [XIWA AIR CRACKERS](https://github.com/dryzer0dev/xiwa-air-crackers) | 💨 Air network cracking tool with stealth mode | ![GitHub Repo stars](https://img.shields.io/github/stars/dryzer0dev/xiwa-air-crackers?style=flat-square&color=00ffe0) |
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+  <div style="width: 250px; padding: 20px; border-radius: 12px; background: linear-gradient(135deg, #ff4b5c, #ff1a1a); box-shadow: 0 0 25px rgba(255, 0, 0, 0.6); transition: transform 0.3s ease-in-out; animation: glowEffect 2s infinite alternate;">
+    <h3 style="color: white; font-family: 'Fira Code', monospace; font-size: 20px; text-align: center; text-shadow: 0 0 15px #ff0000;">XIWA TOOL</h3>
+    <p style="color: white; text-align: center; font-size: 16px;">🔒 Multi-functional anonymity toolkit</p>
+    <div style="text-align: center;">
+      <a href="https://github.com/dryzer0dev/XIWA-TOOL" target="_blank" style="padding: 10px 20px; background-color: #00ffe0; color: black; border-radius: 8px; text-decoration: none; box-shadow: 0 0 15px rgba(255, 255, 255, 0.7); transition: background-color 0.3s;">
+        Explore
+      </a>
+    </div>
+    <div style="text-align: center; margin-top: 10px;">
+      ![GitHub Repo stars](https://img.shields.io/github/stars/dryzer0dev/XIWA-TOOL?style=flat-square&color=00ffe0)
+    </div>
+  </div>
+
+  <div style="width: 250px; padding: 20px; border-radius: 12px; background: linear-gradient(135deg, #ff4b5c, #ff1a1a); box-shadow: 0 0 25px rgba(255, 0, 0, 0.6); transition: transform 0.3s ease-in-out; animation: glowEffect 2s infinite alternate;">
+    <h3 style="color: white; font-family: 'Fira Code', monospace; font-size: 20px; text-align: center; text-shadow: 0 0 15px #ff0000;">XIWA AIR CRACKERS</h3>
+    <p style="color: white; text-align: center; font-size: 16px;">💨 Air network cracking tool with stealth mode</p>
+    <div style="text-align: center;">
+      <a href="https://github.com/dryzer0dev/xiwa-air-crackers" target="_blank" style="padding: 10px 20px; background-color: #00ffe0; color: black; border-radius: 8px; text-decoration: none; box-shadow: 0 0 15px rgba(255, 255, 255, 0.7); transition: background-color 0.3s;">
+        Explore
+      </a>
+    </div>
+    <div style="text-align: center; margin-top: 10px;">
+      ![GitHub Repo stars](https://img.shields.io/github/stars/dryzer0dev/xiwa-air-crackers?style=flat-square&color=00ffe0)
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -46,22 +69,9 @@
   <p align="center"><strong>Currently learning:</strong> Assembly & Ruby</p>
 </div>
 
-<!-- Stats -->
-<!-- 🔥 XIWA-TOOL STATS CARD - RED DARK MODE -->
-<div style="border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #0f0f0f, #1a0000); box-shadow: 0 0 40px rgba(255, 0, 0, 0.9); margin: 30px 0; transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out; animation: waveGlow 3s infinite alternate, glowBackground 2s infinite alternate;">
-  <h2 align="center" style="color: #ff1a1a; font-family: 'Fira Code', monospace; text-shadow: 0 0 15px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff0000; font-size: 30px; margin-bottom: 15px; animation: titlePulse 1.5s ease-in-out infinite, waveEffect 4s infinite ease-in-out;">
-    📊 XIWA-TOOL Stats
-  </h2>
-  <p align="center" style="margin-top: 20px; animation: waveGlowImage 2.5s infinite alternate, imageBounce 2s infinite;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dryzer0dev&repo=XIWA-TOOL&theme=radical&border_color=ff0000&title_color=ff1a1a&text_color=ffffff&icon_color=ff0000" width="400px" style="border-radius: 12px; animation: scaleUp 1.5s infinite alternate, glowRed 1.5s infinite alternate, imageShake 1.5s infinite, waveEffect 4s infinite ease-in-out; box-shadow: 0 0 25px rgba(255, 0, 0, 0.9);">
-  </p>
-</div>
+---
 
-
-
-
-
-<!-- Contact -->
+<!-- 📬 Contact Me -->
 <div class="card-glow">
   <h2 align="center">Contact Me</h2>
   <p align="center">Interested in collaborating or learning more about my work?</p>
@@ -95,16 +105,7 @@ Here are **20+ cards** that link to your major categories/tools. All icons glow 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dryzer0dev&layout=compact&theme=radical&locale=fr)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dryzer0dev&theme=radical&locale=fr)
-
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:shiraka0dev@gmail.com"><img src="https://img.shields.io/badge/Email-shiraka0dev%40gmail.com-00ffe0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:dryzer0dev@gmail.com"><img src="https://img.shields.io/badge/Business%20Email-dryzer0dev%40gmail.com-00ffe0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-_.shiraka-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
+![GitHub Streak](https://readme-streak-stats.herokuapp.com/?user=dryzer0dev&theme=radical&locale=fr)
 
 ---
 
