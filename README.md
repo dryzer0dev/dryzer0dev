@@ -89,7 +89,7 @@ Here are **20+ cards** that link to your major categories/tools. All icons glow 
 | 🌐 XIWA Tool                   | [Launch](https://github.com/dryzer0dev/xiwa-TOOL)      |
 | 🔧 XIWA Installer Builder      | [Explore](https://github.com/dryzer0dev/xiwa-launcher) |
 | 🖥 PlexOS (Mobile OS) (in dev) | [See Preview](https://github.com/dryzer0dev/plexos)    |
-| 💻 XiwA OS 5IN DEV°            | [Preview](https://github.com/dryzer0dev/xiwa-os)       |
+| 💻 XiwA ( in dev )            | [Preview](https://github.com/dryzer0dev/xiwa-os)       |
 
 ---
 
@@ -110,6 +110,42 @@ Here are **20+ cards** that link to your major categories/tools. All icons glow 
   <a href="mailto:dryzer0dev@gmail.com"><img src="https://img.shields.io/badge/Business%20Email-dryzer0dev%40gmail.com-00ffe0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Discord-_.shiraka-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
+
+---
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 50px;">
+  
+  <!-- Card 1 -->
+  <div class="card" style="border-radius: 15px; width: 300px; height: 400px; background: linear-gradient(135deg, #1f1f1f, #ff1a1a); box-shadow: 0 4px 30px rgba(255, 0, 0, 0.6); overflow: hidden; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
+    <div style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=XIWA+TOOL'); background-size: cover; height: 200px; border-top-left-radius: 15px; border-top-right-radius: 15px;"></div>
+    <div style="padding: 20px; text-align: center; color: #fff;">
+      <h3 style="font-family: 'Fira Code', monospace; font-size: 22px;">XIWA TOOL</h3>
+      <p style="font-size: 16px;">Multi-functional anonymity toolkit</p>
+      <a href="https://github.com/dryzer0dev/XIWA-TOOL" style="display: inline-block; background-color: #ff1a1a; color: white; padding: 10px 20px; text-decoration: none; border-radius: 30px; font-weight: bold; margin-top: 15px;">Explore</a>
+    </div>
+  </div>
+
+  <!-- Card 2 -->
+  <div class="card" style="border-radius: 15px; width: 300px; height: 400px; background: linear-gradient(135deg, #1f1f1f, #ff1a1a); box-shadow: 0 4px 30px rgba(255, 0, 0, 0.6); overflow: hidden; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
+    <div style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=XIWA+AIR+CRACKERS'); background-size: cover; height: 200px; border-top-left-radius: 15px; border-top-right-radius: 15px;"></div>
+    <div style="padding: 20px; text-align: center; color: #fff;">
+      <h3 style="font-family: 'Fira Code', monospace; font-size: 22px;">XIWA AIR CRACKERS</h3>
+      <p style="font-size: 16px;">Air network cracking tool with stealth mode</p>
+      <a href="https://github.com/dryzer0dev/xiwa-air-crackers" style="display: inline-block; background-color: #ff1a1a; color: white; padding: 10px 20px; text-decoration: none; border-radius: 30px; font-weight: bold; margin-top: 15px;">Explore</a>
+    </div>
+  </div>
+
+  <!-- Card 3 -->
+  <div class="card" style="border-radius: 15px; width: 300px; height: 400px; background: linear-gradient(135deg, #1f1f1f, #ff1a1a); box-shadow: 0 4px 30px rgba(255, 0, 0, 0.6); overflow: hidden; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
+    <div style="background: url('https://via.placeholder.com/300x200/ff1a1a/ffffff?text=PlexOS'); background-size: cover; height: 200px; border-top-left-radius: 15px; border-top-right-radius: 15px;"></div>
+    <div style="padding: 20px; text-align: center; color: #fff;">
+      <h3 style="font-family: 'Fira Code', monospace; font-size: 22px;">PlexOS</h3>
+      <p style="font-size: 16px;">Mobile OS in development</p>
+      <a href="https://github.com/dryzer0dev/plexos" style="display: inline-block; background-color: #ff1a1a; color: white; padding: 10px 20px; text-decoration: none; border-radius: 30px; font-weight: bold; margin-top: 15px;">Preview</a>
+    </div>
+  </div>
+
+</div>
 
 ---
 
