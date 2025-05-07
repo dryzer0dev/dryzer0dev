@@ -94,7 +94,7 @@ Here are **20+ cards** that link to your major categories/tools. All icons glow 
 | 🌐 XIWA Tool                   | [Launch](https://github.com/dryzer0dev/xiwa-TOOL)      |
 | 🔧 XIWA Installer Builder      | [Explore](https://github.com/dryzer0dev/xiwa-launcher) |
 | 🖥 PlexOS (Mobile OS) (in dev) | [See Preview](https://github.com/dryzer0dev/plexos)    |
-| 💻 XiwA ( in dev )            | [Preview](https://github.com/dryzer0dev/xiwa-os)       |
+| 💻 XiwA VPN ( in dev )            | [Preview](https://github.com/dryzer0dev/xiwa-os)       |
 
 ---
 
@@ -113,7 +113,7 @@ Here are **20+ cards** that link to your major categories/tools. All icons glow 
 <p align="center">
   <a href="mailto:shiraka0dev@gmail.com"><img src="https://img.shields.io/badge/Email-shiraka0dev%40gmail.com-00ffe0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="mailto:dryzer0dev@gmail.com"><img src="https://img.shields.io/badge/Business%20Email-dryzer0dev%40gmail.com-00ffe0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-_.shiraka-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-__.shiraka-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ---
