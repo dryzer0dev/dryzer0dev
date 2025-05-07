@@ -1,8 +1,7 @@
 ---
 
-<p style="width:555px;">
-  ![fe423f30f7b65b287562607820d3ad43](https://github.com/user-attachments/assets/24faa9b3-2bec-46fc-81de-c1581d2e6fb2)
-</p>
+![fe423f30f7b65b287562607820d3ad43](https://github.com/user-attachments/assets/24faa9b3-2bec-46fc-81de-c1581d2e6fb2)
+
 
 
 ---
